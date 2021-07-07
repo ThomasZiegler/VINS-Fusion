@@ -12,6 +12,7 @@ find_package(catkin REQUIRED COMPONENTS
     cv_bridge
     geometry_msgs
     image_transport
+    opencv3_catkin 
     nav_msgs
     roscpp
     std_msgs
